@@ -9,7 +9,7 @@ button {
     background-color: initial;
     color: inherit;
     font: inherit;
-    outline: none; /* Make sure there is a visual indicator for focus state */
+    outline: none; /* Rules added to the focus state */
 }
 
 /* BASE STYLES */
