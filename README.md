@@ -1,2 +1,23 @@
-# Snap-Craft
-Snap-Craft: My private GitHub portfolio for crafting Snap Craft, a fantastic social photo editor. Currently under wraps until it's polished to perfection. Stay tuned for updates!
+# Snap Craft
+
+Welcome to Snap Craft! This is a simple front-end project aimed at creating a social media photo editing app using HTML and CSS.
+
+## About
+
+Snap Craft is a personal project where I'm exploring HTML and CSS to build a basic photo editing application for social media platforms.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Start exploring the simple photo editing features.
+
+## Contributing
+
+This project is currently a personal endeavor, but feedback and suggestions are always welcome. Feel free to reach out if you have any ideas or improvements!
+
