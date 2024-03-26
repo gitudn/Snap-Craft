@@ -1,10 +1,11 @@
 # Snap Craft
 
-Welcome to Snap Craft! This is a simple front-end project aimed at creating a social media photo editing app using HTML and CSS.
+Welcome to Snap Craft! This is a simple front-end project aimed at creating a social media photo editing app using HTML and CSS, inspired by Canva.
 
 ## About
 
-Snap Craft is a personal project where I'm exploring HTML and CSS to build a basic photo editing application for social media platforms.
+Snap Craft is a personal project where I'm exploring HTML and CSS to build a basic photo editing application for social media platforms, inspired by Canva's functionality and design.
+
 
 ## Technologies Used
 
